@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Git learning")
+        print("Another commit")
     }
 
 
